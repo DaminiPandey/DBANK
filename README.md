@@ -20,3 +20,5 @@ Defi (Decentralized Finance) DApp -DBANK using Motoko and DIFINITY's Internet Co
 ![2022-04-09 (2)](https://user-images.githubusercontent.com/61384878/162585433-5a921d96-dbe1-4e59-9f6f-01e3833967d9.png)
 
 <p>DBANK (Decentralized Finance App) is an ICP project, that gives users the ability to deposit or withdraw their money from the DBANk with compounding interest.</p>
+
+Author ✍️: Damini Pandey 
